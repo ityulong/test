@@ -45,6 +45,10 @@ private ScaleOverlay mScaleOverlay;
 | col 2 is      | centered      |   $12 |
 | zebra stripes | are neat      |    $1 |
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> parent of 141b18c... Revert "edit title"
 ######六级标题
 1. 文本1
 2. 文本2
