@@ -44,6 +44,7 @@ private ScaleOverlay mScaleOverlay;
 | col 3 is      | right-aligned | $1600 |
 | col 2 is      | centered      |   $12 |
 | zebra stripes | are neat      |    $1 |
+<<<<<<< HEAD
 
 
 ######六级标题
@@ -51,3 +52,5 @@ private ScaleOverlay mScaleOverlay;
 2. 文本2
 3. 文本3
 
+=======
+>>>>>>> parent of cac1de2... mac desktop
